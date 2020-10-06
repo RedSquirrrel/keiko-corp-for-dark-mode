@@ -87,7 +87,7 @@ body {
 [data-theme = 'dark'] {  
   --lightBlue: #c54b49;  
   --text: #fff;
-  --mainBackground: #132743;
+  --mainBackground: #343A40;
   --heroText: #fff;
 }
 
